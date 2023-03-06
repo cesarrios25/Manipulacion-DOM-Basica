@@ -1,0 +1,31 @@
+h1 {
+    color: green;
+    font-size: 30px;
+}
+ #calculo1{
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 15px;
+ }
+
+ #calculo2{
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 15px;
+ }
+
+ #btnCalcular{
+    border: 1px solid rebeccapurple;
+    background-color: palegreen;
+    border-radius: 5px;
+    padding: 10px 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+ }
